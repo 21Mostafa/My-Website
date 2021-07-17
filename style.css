@@ -1,0 +1,50 @@
+.small{width: 40px;}
+body{background-color: #9f9f9f77;}
+
+  
+.container{margin-top: 100px;}
+
+
+.player img{width: 56px;
+margin: 10px 10px 10px 10px;}
+
+
+ .nor,.alo{background-color: #FFFFFF;}
+
+
+ .life img{width: 177px;
+;
+}
+ 
+
+
+.row{margin-left: 30px;
+margin-top: 50px}
+
+.down{margin-left: 100px;}
+
+
+.down2, .down4{margin-left: 300px;}
+
+
+ .colllor{border: 1px solid rgba(15, 11, 11, 0.171);}
+
+
+
+
+ .card img{width: 300px;}
+
+ .card{border: none;}
+img{width: 100%;}
+
+ .gio{width: 10;}
+
+
+ #tall{width: 25px; margin-left: 70px;}
+
+  .roni{border: 5px solid rgba(134, 6, 6, 0.384); 
+   margin-left: 80px;
+border-radius: 20px;
+ background-color: rgba(126, 23, 23, 0.103);}
+
+ .blue{color: blue;}
