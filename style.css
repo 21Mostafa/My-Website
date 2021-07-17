@@ -34,7 +34,8 @@ margin-top: 50px}
 
  .card img{width: 300px;}
 
- .card{border: none;}
+ .card{ box-shadow: 10px 30px 20px  rgba(141, 107, 107, 0.61);
+border: none;}
 img{width: 100%;}
 
  .gio{width: 10;}
